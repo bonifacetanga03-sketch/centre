@@ -1,0 +1,10 @@
+{
+  "name": "etat-civil",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Application de gestion du Centre d'État Civil — démonstration full-stack autonome"
+}
